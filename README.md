@@ -1,2 +1,2 @@
 # JS-advanced
-*done* and dusted
+**done** and dusted
